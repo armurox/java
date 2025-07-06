@@ -15,4 +15,3 @@ public class BottlesOfBeer {
         System.out.println("No more" + beer_bottles);
     }
 }
-
